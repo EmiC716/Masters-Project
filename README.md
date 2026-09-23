@@ -1,3 +1,6 @@
+# University of Bath MComp (Hons) Computer Science Master's Project
+I forked and iterated upon the original OATutor repository to implement a prototype application for my Masters' Project focusing on Education Technology. Credits below.
+
 # OATutor
 
 OATutor is an Open-source Adaptive Tutoring System (OAT) based on Intelligent Tutoring System principles. It uses Bayesian Knowledge Tracing for skill mastery estimation and is implemented entirely in React JS with optional logging using [Firebase](https://firebase.google.com/). 
