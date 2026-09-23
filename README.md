@@ -1,4 +1,4 @@
-# University of Bath MComp (Hons) Computer Science Master's Project
+## University of Bath MComp (Hons) Computer Science Master's Project
 I forked and iterated upon the original OATutor repository to implement a prototype application for my Masters' Project focusing on Education Technology. Credits below.
 
 # OATutor
